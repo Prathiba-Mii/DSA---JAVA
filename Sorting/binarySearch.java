@@ -1,4 +1,3 @@
-import java.util.*;
 
 public class binarySearch{
 
@@ -27,3 +26,5 @@ public class binarySearch{
       System.out.println(binarySearch(arr,3));
   }
 }
+
+// time complexity :O(log n)

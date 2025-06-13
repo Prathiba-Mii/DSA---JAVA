@@ -21,3 +21,5 @@ public class LinearSearch {
       System.out.println("key is at index");
   }
 }
+
+// time complexity : O(n)

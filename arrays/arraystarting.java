@@ -2,12 +2,8 @@ import java.util.Scanner;
 
 public class arraystarting{
   public static void main(String[] args) {
-      System.out.println("I am Blessed");
-
       int n=5;
-
       Scanner sc = new Scanner(System.in);
-
       int arr[]=new int[n];
 
       System.out.println("Enter "+ n +"elements : ");
